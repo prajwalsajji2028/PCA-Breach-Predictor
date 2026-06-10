@@ -1,0 +1,1 @@
+I had prepared this as a Term paper for my Econometrics II course. I found that publishing this as a predictor model is of no good use so putting it here so that anyone who looks up for this can read it for reference
